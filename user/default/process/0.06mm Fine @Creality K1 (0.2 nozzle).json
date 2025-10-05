@@ -1,0 +1,19 @@
+{
+    "bottom_shell_layers": "4",
+    "from": "User",
+    "inherits": "0.12mm Fine @Creality K1 (0.4 nozzle)",
+    "inner_wall_line_width": "0.25",
+    "internal_solid_infill_line_width": "0.22",
+    "is_custom_defined": "0",
+    "layer_height": "0.06",
+    "line_width": "0.22",
+    "name": "0.06mm Fine @Creality K1 (0.2 nozzle)",
+    "outer_wall_line_width": "0.22",
+    "print_settings_id": "0.06mm Fine @Creality K1 (0.2 nozzle)",
+    "seam_position": "random",
+    "sparse_infill_line_width": "0.25",
+    "support_line_width": "0.2",
+    "top_shell_layers": "4",
+    "top_surface_line_width": "0.22",
+    "version": "2.3.0.3"
+}

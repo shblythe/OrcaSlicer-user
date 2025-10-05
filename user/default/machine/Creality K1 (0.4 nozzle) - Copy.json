@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Creality K1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "name": "Creality K1 (0.4 nozzle) - Copy",
+    "print_host": "192.168.1.248:7125",
+    "printer_settings_id": "Creality K1 (0.4 nozzle) - Copy",
+    "version": "2.3.0.3"
+}

@@ -1,0 +1,34 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_retraction_length": [
+        "0.4"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA High Speed @K1-all - Hyper"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "Creality Generic PLA High Speed @K1-all",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA High Speed @K1-all - Hyper",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.036"
+    ],
+    "version": "2.3.0.3"
+}
